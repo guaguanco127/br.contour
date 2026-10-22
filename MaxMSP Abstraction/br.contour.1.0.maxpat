@@ -460,7 +460,7 @@
 							100.0,
 							100.0,
 							1300.0,
-							520.0
+							633.0
 						],
 						"boxes": [
 							{
@@ -477,7 +477,7 @@
 									"patching_rect": [
 										20.0,
 										20.0,
-										30.0,
+										163.0,
 										22.0
 									],
 									"text": "in 1 @comment audio L"
@@ -495,9 +495,9 @@
 										""
 									],
 									"patching_rect": [
-										100.0,
+										198.0,
 										20.0,
-										30.0,
+										163.0,
 										22.0
 									],
 									"text": "in 2 @comment audio R"
@@ -515,10 +515,10 @@
 										""
 									],
 									"patching_rect": [
-										180.0,
+										376.0,
 										20.0,
-										30.0,
-										22.0
+										200.0,
+										36.0
 									],
 									"text": "in 3 @comment trigger: rising edge through 0"
 								}
@@ -535,10 +535,10 @@
 										""
 									],
 									"patching_rect": [
-										260.0,
+										591.0,
 										20.0,
-										30.0,
-										22.0
+										200.0,
+										36.0
 									],
 									"text": "in 4 @comment ampamount @default -1 @min -1 @max 1"
 								}
@@ -555,10 +555,10 @@
 										""
 									],
 									"patching_rect": [
-										340.0,
+										806.0,
 										20.0,
-										30.0,
-										22.0
+										200.0,
+										49.0
 									],
 									"text": "in 5 @comment amprise @default 5 @min 3 @max 5000"
 								}
@@ -575,10 +575,10 @@
 										""
 									],
 									"patching_rect": [
-										420.0,
 										20.0,
-										30.0,
-										22.0
+										79.0,
+										200.0,
+										49.0
 									],
 									"text": "in 6 @comment ampfall @default 250 @min 3 @max 10000"
 								}
@@ -595,10 +595,10 @@
 										""
 									],
 									"patching_rect": [
-										500.0,
-										20.0,
-										30.0,
-										22.0
+										235.0,
+										79.0,
+										200.0,
+										36.0
 									],
 									"text": "in 7 @comment ampcurve @default 0 @min -1 @max 1"
 								}
@@ -615,10 +615,10 @@
 										""
 									],
 									"patching_rect": [
-										580.0,
-										20.0,
-										30.0,
-										22.0
+										450.0,
+										79.0,
+										200.0,
+										36.0
 									],
 									"text": "in 8 @comment filtamount @default 0 @min -8 @max 8"
 								}
@@ -635,10 +635,10 @@
 										""
 									],
 									"patching_rect": [
-										660.0,
-										20.0,
-										30.0,
-										22.0
+										665.0,
+										79.0,
+										200.0,
+										49.0
 									],
 									"text": "in 9 @comment filtrise @default 5 @min 1 @max 5000"
 								}
@@ -655,10 +655,10 @@
 										""
 									],
 									"patching_rect": [
-										740.0,
-										20.0,
-										30.0,
-										22.0
+										880.0,
+										79.0,
+										200.0,
+										49.0
 									],
 									"text": "in 10 @comment filtfall @default 250 @min 1 @max 10000"
 								}
@@ -675,10 +675,10 @@
 										""
 									],
 									"patching_rect": [
-										820.0,
 										20.0,
-										30.0,
-										22.0
+										138.0,
+										200.0,
+										36.0
 									],
 									"text": "in 11 @comment filtcurve @default 0 @min -1 @max 1"
 								}
@@ -695,10 +695,10 @@
 										""
 									],
 									"patching_rect": [
-										900.0,
-										20.0,
-										30.0,
-										22.0
+										235.0,
+										138.0,
+										200.0,
+										49.0
 									],
 									"text": "in 12 @comment cutoff @default 20000 @min 20 @max 20000"
 								}
@@ -715,10 +715,10 @@
 										""
 									],
 									"patching_rect": [
-										980.0,
-										20.0,
-										30.0,
-										22.0
+										450.0,
+										138.0,
+										200.0,
+										36.0
 									],
 									"text": "in 13 @comment resonance @default 0 @min 0 @max 1"
 								}
@@ -735,10 +735,10 @@
 										""
 									],
 									"patching_rect": [
-										1060.0,
-										20.0,
-										30.0,
-										22.0
+										665.0,
+										138.0,
+										200.0,
+										36.0
 									],
 									"text": "in 14 @comment mode @default 0 @min 0 @max 1"
 								}
@@ -755,10 +755,10 @@
 										""
 									],
 									"patching_rect": [
-										1140.0,
-										20.0,
-										30.0,
-										22.0
+										880.0,
+										138.0,
+										200.0,
+										36.0
 									],
 									"text": "in 15 @comment on @default 1 @min 0 @max 1"
 								}
@@ -781,7 +781,7 @@
 									],
 									"patching_rect": [
 										20.0,
-										80.0,
+										217.0,
 										1180.0,
 										300.0
 									]
@@ -797,8 +797,8 @@
 									"numoutlets": 0,
 									"patching_rect": [
 										20.0,
-										420.0,
-										30.0,
+										547.0,
+										170.0,
 										22.0
 									],
 									"text": "out 1 @comment audio L"
@@ -813,9 +813,9 @@
 									"numinlets": 1,
 									"numoutlets": 0,
 									"patching_rect": [
-										140.0,
-										420.0,
-										30.0,
+										336.66666666666663,
+										547.0,
+										170.0,
 										22.0
 									],
 									"text": "out 2 @comment audio R"
@@ -830,10 +830,10 @@
 									"numinlets": 1,
 									"numoutlets": 0,
 									"patching_rect": [
-										260.0,
-										420.0,
-										30.0,
-										22.0
+										653.3333333333333,
+										547.0,
+										200.0,
+										36.0
 									],
 									"text": "out 3 @comment amp envelope 0 to 1"
 								}
@@ -847,10 +847,10 @@
 									"numinlets": 1,
 									"numoutlets": 0,
 									"patching_rect": [
-										380.0,
-										420.0,
-										30.0,
-										22.0
+										999.9999999999999,
+										547.0,
+										200.0,
+										36.0
 									],
 									"text": "out 4 @comment filter envelope 0 to 1"
 								}
